@@ -13,9 +13,12 @@ This project is a simple yet interactive simulation of a bouncing ball built wit
 
 ---
 
-## 🛠️ Installation
+## 📋 Requirements
 
-1. Make sure you have Python 3 installed.
-2. Install Pygame:
-   ```bash
-   pip install pygame
+- Python 3.7 or higher  
+- [Pygame](https://www.pygame.org/) (`pip install pygame`)
+
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
