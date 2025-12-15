@@ -4,7 +4,7 @@ This project is a simple yet interactive simulation of a bouncing ball built wit
 
 ---
 
-## 🚀 Features
+## Features
 
 - Fullscreen adaptive display
 - Gravity and damping simulation
@@ -13,7 +13,7 @@ This project is a simple yet interactive simulation of a bouncing ball built wit
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - Python 3.7 or higher  
 - [Pygame](https://www.pygame.org/) (`pip install pygame`)
